@@ -1,4 +1,4 @@
-#  Copyright (C) 2025 chickendrop89
+#  Copyright (C) 2025 chkndrp
 #   
 #  This program is free software: you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -13,7 +13,7 @@
 #  You should have received a copy of the GNU General Public License
 #  along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-OF_MAINTAINER := chickendrop89
+OF_MAINTAINER := chkndrp
 
 # Screen settings
 OF_SCREEN_H := 2400
